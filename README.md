@@ -28,5 +28,13 @@ This repository contains the design and implementation details of a joystick-con
 <b>Surveillance Capability:</b> The robot can be equipped with a camera or sensors for surveillance purposes.
 <br><br>
 <b>Schematic<b>
-
+<br>
 Include a detailed schematic of the connections between the components here.
+
+<b>How to Build</b>
+
+<b>Assemble the Robot:</b> Connect the DC motors to the chassis and attach the wheels.
+<b>Connect Components:</b> Wire the Arduino Nano to the motor driver, joystick module, and Bluetooth module according to the schematic.
+<b>Upload Code:</b> Program the Arduino Nano with the provided code to control the robot.
+<b>Power Up:</b> Connect the battery to power the system.
+<b>Pair Devices: </b>Pair the Bluetooth module with the joystick controller for wireless operation.
