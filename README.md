@@ -33,8 +33,31 @@ Include a detailed schematic of the connections between the components here.
 
 <b>How to Build</b>
 
-<b>Assemble the Robot:</b> Connect the DC motors to the chassis and attach the wheels.
-<b>Connect Components:</b> Wire the Arduino Nano to the motor driver, joystick module, and Bluetooth module according to the schematic.
-<b>Upload Code:</b> Program the Arduino Nano with the provided code to control the robot.
-<b>Power Up:</b> Connect the battery to power the system.
-<b>Pair Devices: </b>Pair the Bluetooth module with the joystick controller for wireless operation.
+<b>Assemble the Robot:</b> Connect the DC motors to the chassis and attach the wheels.<br>
+<b>Connect Components:</b> Wire the Arduino Nano to the motor driver, joystick module, and Bluetooth module according to the schematic.<br>
+<b>Upload Code:</b> Program the Arduino Nano with the provided code to control the robot.<br>
+<b>Power Up:</b> Connect the battery to power the system.<br>
+<b>Pair Devices: </b>Pair the Bluetooth module with the joystick controller for wireless operation.<br>
+
+<b>Usage</b><br>
+
+<b>Turn On:</b> Switch on the robot and the joystick controller.<br>
+<b>Control:</b> Use the joystick to navigate the robot.<br>
+<b>Surveillance: </b>Monitor the surroundings using the robot's camera (if installed).<br>
+
+<b>Future Enhancements</b><br>
+
+Add a camera for real-time video surveillance.<br>
+Implement obstacle detection and avoidance.<br>
+Enhance battery life for longer operation.<br>
+
+<b>Contributing</b><br>
+Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!<br>
+
+<b>License</b><br>
+
+This project is licensed under the MIT License.<br>
+
+
+
+
